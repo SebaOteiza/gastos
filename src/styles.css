@@ -6,7 +6,7 @@ body {
 
 }
 
-fontTitle {
+.fontTitle {
 
     font-family: 'Montserrat', sans-serif;
     color: white ;
@@ -17,3 +17,4 @@ fontTitle {
 
     font-size: 1rem;
 }
+
